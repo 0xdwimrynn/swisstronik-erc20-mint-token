@@ -1,17 +1,7 @@
 # Swisstronik Tesnet Techinal Task 2
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x248963e9fB685FFe9C790ceeF2f2e8174344901b
-```
-
 ## Steps
-
 ### 1. Clone Repository
 
 ```bash
@@ -104,9 +94,3 @@ npm run transfer
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [0xdwimrynn](https://github.com/0xdwimrynn)
-twitter : @0xdwimrynn
-telegram : @dwimrynn
-//0x248963e9fB685FFe9C790ceeF2f2e8174344901b
