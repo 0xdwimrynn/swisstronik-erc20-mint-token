@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x248963e9fB685FFe9C790ceeF2f2e8174344901b
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc20-mint-token.git
+git clone https://github.com/0xdwimrynn/swisstronik-erc20-mint-token.git
 ```
 
 ```
@@ -50,7 +50,7 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract TestToken is ERC20 {
-    constructor()ERC20("IzzyToken","IZZY"){}
+    constructor()ERC20("DwimrynnToken","DWIMRYNN"){}
 
     function mint1000tokens() public {
         _mint(msg.sender,1000*10**18);
@@ -106,7 +106,7 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-//0x37401D115bC52bBdaa59Df7f7e021523b020F98f
+github : [0xdwimrynn](https://github.com/0xdwimrynn)
+twitter : @0xdwimrynn
+telegram : @dwimrynn
+//0x248963e9fB685FFe9C790ceeF2f2e8174344901b
